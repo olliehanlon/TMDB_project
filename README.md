@@ -1,0 +1,1 @@
+An exploratory data analysis project to uncover key trends/insights from a large movies data set. Sections include: data cleaning/null handling, data visualisation, key insights, and a more in depth analysis on the best/worst performing movies in the database.
